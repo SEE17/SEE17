@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Building+standalone+desktop+executables+%26+performance+optimizers;Developing+custom+FiveM+recoil+physics%2C+MLO+maps%2C+%26+Lua+mods;Architecting+high-throughput+Discord+bots+%26+tournament+grids;Engineering+low-latency+Pawn%2C+C%2B%2B%2C+and+C%23+software+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Building+standalone+desktop+executables+%26+performance+optimizers;Developing+custom+FiveM+recoil+physics%2C+client+hooks%2C+%26+Lua+mods;Architecting+high-throughput+Discord+bots+%26+tournament+grids;Engineering+low-latency+Pawn%2C+C%2B%2B%2C+and+C%23+software+systems" alt="Typing SVG" />
   </a>
 
   <br />
@@ -36,7 +36,7 @@ and enterprise-grade Discord bot automation grids capable of high-concurrency th
 ```
 
 - 🚀 **Desktop & Kernel Tools**: Standalone Windows executables (`n0t.see.exe`), low input-latency game debloaters, audio soundboard suites
-- 🎮 **Game Mechanics & 3D Mapping**: FiveM realistic recoil physics, custom MLO 3D world mapping, MoonLoader client hooks, and open.mp systems
+- 🎮 **Game Mechanics & Custom Tooling**: FiveM realistic recoil physics, MoonLoader client hooks, and open.mp systems
 - 🤖 **Bot Infrastructure**: High-volume auto-dispatch grids, esports tournament bracket engines, automated image verification filters
 - 💬 **Discord Handle**: `n0t.see`
 - 📫 **Direct Inquiries**: [notseegoddc@gmail.com](mailto:notseegoddc@gmail.com)
@@ -166,29 +166,8 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
     </td>
   </tr>
 
-  <!-- Row 3: 3D Mapping & Memory Client Tools -->
+  <!-- Row 3: Memory Client Tools & Audio Suite -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🗺️ TPAGH 3D Spatial Architecture & MLO Streaming</h3>
-      <p align="center">
-        <img src="./assets/by_400kpriv_wllp4.png" width="90%" alt="3D Architecture" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Platform-GTA_V_%7C_FiveM-blue?style=for-the-badge" alt="FiveM Maps" />
-        <img src="https://img.shields.io/badge/Assets-YMAP_%7C_YDR-purple?style=for-the-badge" alt="YMAP" />
-      </p>
-      <p>Custom 3D world mapping, custom interior shells (MLO), collision meshes, and occlusion boundaries engineered for high-end FiveM roleplay servers.</p>
-      <ul>
-        <li><b>Optimized 3D Collision Models</b>: Custom <code>.ydr</code> and <code>.ytyp</code> definitions preventing player glitch-throughs</li>
-        <li><b>Occlusion Geometry</b>: Custom <code>.ymap</code> occlusion meshes to eliminate frame drops across dense interiors</li>
-        <li><b>High-Res Texture Dictionaries</b>: Compressed <code>.ytd</code> textures optimized for streaming without memory crashes</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/3D_Modeling-FF5722?style=flat-square" />
-        <img src="https://img.shields.io/badge/YMAP-00BCD4?style=flat-square" />
-        <img src="https://img.shields.io/badge/FiveM-F08080?style=flat-square" />
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">🎮 MoonLoader & TR7 Client Memory Hooks</h3>
       <p align="center">
@@ -209,10 +188,6 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
         <img src="https://img.shields.io/badge/Win32_Memory-0078D4?style=flat-square&logo=windows&logoColor=white" />
       </p>
     </td>
-  </tr>
-
-  <!-- Row 4: Soundboard & Roleplay Server Ecosystem -->
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔊 n0t_see Audio Soundboard Suite</h3>
       <p align="center">
@@ -230,6 +205,10 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
         <img src="https://img.shields.io/badge/Audio_API-FF007A?style=flat-square" />
       </p>
     </td>
+  </tr>
+
+  <!-- Row 4: Multiplayer Framework & Security Guardian -->
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏙️ DUBAI v1 & Bloodline PvP Framework</h3>
       <p align="center">
@@ -249,6 +228,23 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
         <img src="https://img.shields.io/badge/Pawn-dbb284?style=flat-square" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/open.mp-22c55e?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ TPA Verification & Anti-Nuke Guardian</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Security-Server_Defense-EA4335?style=for-the-badge&logo=shield&logoColor=white" alt="Security Guardian" />
+      </p>
+      <p>Automated visual screening and security guardian for Discord communities. Automatically verifies uploaded screenshot proofs and protects guilds from rogue bot attacks.</p>
+      <ul>
+        <li><b>Image Check Processor</b>: Scans, parses, and validates user verification screenshots before granting access</li>
+        <li><b>Anti-Nuke Protection</b>: Instantly detects mass-channel deletion, mass-ban attempts, and unauthorized role grants</li>
+        <li><b>Audit Trail Logging</b>: Detailed embed logs recording every administrative action with timestamped evidence</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Security-10b981?style=flat-square" />
       </p>
     </td>
   </tr>
