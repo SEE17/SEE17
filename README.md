@@ -1,30 +1,25 @@
 <div align="center">
 
-  <!-- HUD Status Bar -->
-  <p align="center">
-    <code><b>[ CLASSIFIED // LEVEL-5 ARCHITECT CLEARANCE // NODE: SEE17 ]</b></code>
-  </p>
+  <!-- Minimalist Aesthetic Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,28,34&height=220&section=header&text=SEE17&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Bot%20Architect&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Glowing Cyber Header -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:02040a,30:040d1a,70:002b28,100:00f5ff&height=260&section=header&text=SEE17&fontSize=84&fontAlignY=38&desc=OFFENSIVE%20SYSTEMS%20%E2%80%A2%20KERNEL%20INTERNALS%20%E2%80%A2%20DISTRIBUTED%20ENGINES&descFontSize=18&descAlignY=64&descAlign=50&stroke=00F5FF&strokeWidth=2" width="100%" alt="SEE17 HUD Banner" />
-
-  <!-- Live Kernel Telemetry Typing SVG -->
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=780&height=48&lines=%5B%2B%5D+BOOTING+RING-0+INTERNALS+%26+MEMORY+INTROSPECTION...;%5B%2B%5D+INITIALIZING+VECTORIZED+AVX2+SIGNATURE+SCANNER...;%5B%2B%5D+DISTRIBUTED+AUTONOMOUS+EVENT+NETWORK+ONLINE;%5B%2B%5D+LOW-LATENCY+GAME+SYSTEMS+%26+REVERSE+ANALYSIS+ACTIVE;%5B%2B%5D+OPERATING+IN+ZERO-OVERHEAD+NATIVE+EXECUTION" alt="Typing Telemetry" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Building+high-performance+Discord+bots+%26+backends;Crafting+low-latency+game+systems+%26+modding+tools;Engineering+clean%2C+scalable+software+architectures" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- Live Uplink Badges -->
+  <!-- Social & Contact Buttons -->
   <p align="center">
     <a href="mailto:notseegoddc@gmail.com">
-      <img src="https://img.shields.io/badge/ENCRYPTED_COMMS-notseegoddc%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Comms" />
+      <img src="https://img.shields.io/badge/Email-notseegoddc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/SECURE_NODE-SEE17-7928CA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Comms" />
+      <img src="https://img.shields.io/badge/Discord-@SEE17-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="https://github.com/SEE17">
-      <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=satellite&logoColor=black" alt="Status Online" />
+      <img src="https://img.shields.io/badge/GitHub-Follow-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -32,172 +27,177 @@
 
 ---
 
-### 🛰️ `SEE17 // KERNEL RUNTIME LOG`
+### 👨‍💻 About Me
 
-```ini
-[SYSTEM DIAGNOSTIC REPORT]
-OPERATOR_ID  :: SEE17
-SECURITY_LVL :: ARCHITECT (UNRESTRICTED)
-CORE_STACK   :: C++20 / C (Modern Native) • Rust • Python 3.12 • LuaJIT • x86-64 ASM
-DOMAINS      :: Memory Ingestion • Process Telemetry • Hook Engines • High-Concurrency C2
-MISSION      :: "Sub-millisecond latency. Zero memory leaks. Code that bends hardware."
+```text
+Hey there! I'm SEE17 — a passionate software engineer specializing in low-level systems, 
+high-concurrency bot infrastructure, and game engine mechanics. I focus on building software 
+that runs fast, scales smoothly, and does exactly what it needs to without unnecessary bloat.
 ```
+
+- 🔭 **Current Focus**: Architecting distributed event-driven microservices & game tooling
+- 💡 **Core Strengths**: Systems programming (C++ / Python / Lua), Win32 API, bot automation, netcode
+- ⚡ **Philosophy**: Clean architecture, deterministic performance, and maintainable codebases
+- 📫 **Direct Reach**: [notseegoddc@gmail.com](mailto:notseegoddc@gmail.com)
 
 ---
 
-### ⚡ LIVE MEMORY HOOK & DISASSEMBLY ENGINE
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-```asm
-; =========================================================================
-; SEE17 HIGH-PERFORMANCE ZERO-OVERHEAD DETOUR DISPATCHER (x86-64)
-; =========================================================================
-0x00007FF7A0:  48 83 EC 28          sub    rsp, 0x28                  ; Allocate shadow space
-0x00007FF7A4:  48 8B 41 18          mov    rax, qword ptr [rcx+0x18]  ; Intercept object vtable
-0x00007FF7A8:  4D 31 C0             xor    r8, r8                     ; Fast atomic flag reset
-0x00007FF7AB:  FF 50 30             call   qword ptr [rax+0x30]       ; Direct dispatch to target
-0x00007FF7AE:  48 83 C4 28          add    rsp, 0x28                  ; Restore stack alignment
-0x00007FF7B2:  C3                   ret                               ; Return control clean
-```
-
-</div>
-
----
-
-### 🎛️ SYSTEM SUBSYSTEM METRICS
-
-```
-[SYSTEM READOUT]
-MEMORY SUBSYSTEMS    [████████████████████] 100%  • Win32 / NT API / Page Table Walking
-DISTRIBUTED NETWORKS [██████████████████░░]  92%  • Sharded Event Gateways & Redis State
-REVERSE ENGINEERING  [███████████████████░]  95%  • Disassembly, AVX2 Scans, PE Analysis
-AUTOMATION GRIDS     [████████████████████] 100%  • Discord Microservices & Fast Daemons
-```
-
----
-
-### 🗂️ CLASSIFIED PROJECT DIRECTORIES *(CLICK TO EXPAND)*
-
-<details open>
-<summary><b>📁 [PROJECT-01] // APEX-NATIVE: ZERO-OVERHEAD MEMORY ENGINE</b></summary>
-<br>
-
-> **Engine Specs:** `C++20` • `SIMD AVX2` • `Win32 NT API` • `x86-64 Assembly`
-
-- **Vectorized Pattern Scanner**: Uses 256-bit AVX2 vector instructions (`_mm256_cmpeq_epi8`) to sweep 100MB+ memory modules in under 1.8 milliseconds.
-- **Dynamic VMT & Inline Detours**: Thread-safe virtual method table redirection with automatic memory protection flipping (`VirtualProtect` -> `PAGE_EXECUTE_READWRITE`) and byte restoration upon unhook.
-- **Hardware Breakpoint Dispatcher**: Uses CPU Debug Registers (`DR0-DR3`) for non-intrusive memory access trapping with zero code modifications.
-
-</details>
-
-<details open>
-<summary><b>📁 [PROJECT-02] // NEXUS-CORE: DISTRIBUTED TOURNAMENT & BOT CLUSTER</b></summary>
-<br>
-
-> **Cluster Specs:** `Python 3.12` • `FastAPI` • `Redis Pub/Sub` • `Discord Gateway Sharding`
-
-- **Ultra-Concurrency Gateway**: Orchestrates 100+ sharded Discord websocket connections handling real-time esports tournament brackets, automated match creation, and auto-dispatching roles.
-- **State Synchronization**: Sub-10ms state updates powered by an in-memory Redis message bus, preventing race conditions during concurrent user check-ins.
-- **Automated Anti-Raid Shield**: Real-time traffic rate-limiting, anomaly detection, and automated mitigation routines protecting communities from mass-spam attacks.
-
-</details>
-
-<details>
-<summary><b>📁 [PROJECT-03] // CHRONO-BATTLEGROUNDS: MULTIPLAYER NETCODE ENGINE</b></summary>
-<br>
-
-> **Architecture Specs:** `Pawn` • `C++ Native Modules` • `Low-Latency UDP Sync`
-
-- **Custom Lag Compensation**: Server-side rewind interpolation calculating hit registration across varying client latencies.
-- **Spatial Hashing**: Custom 2D grid partitioning dividing virtual worlds into local buckets, reducing distance check complexity from `O(N²)` to `O(N)`.
-- **Zero-Allocation Packet Protocol**: Bit-packed binary network payloads minimizing bandwidth usage on 100-player lobbies.
-
-</details>
-
-<details>
-<summary><b>📁 [PROJECT-04] // SPECTER-DAEMON: SECURITY & INTEGRITY MONITOR</b></summary>
-<br>
-
-> **Telemetry Specs:** `Rust` • `ETW (Event Tracing for Windows)` • `WinAPI`
-
-- **Dynamic Threat Telemetry**: Hooks into kernel ETW channels to inspect remote thread creation, hollowed processes, and abnormal `VirtualAllocEx` calls in real time.
-- **Driver & Module Verifier**: Validates digital signatures, checks for unlinked PEB modules, and alerts on anomalous memory permissions.
-
-</details>
-
----
-
-### ⚙️ THE WEAPONRY (TECH MATRIX)
-
-<div align="center">
-
-| Domain | Systems / Frameworks |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Low-Level & Runtimes** | <img src="https://skillicons.dev/icons?i=cpp,c,rust,py,lua,cs,ts,js" alt="Languages" /> |
-| **Backends & Event Services** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,redis,postgres,mongodb,sqlite" alt="Backends" /> |
-| **Infrastructure & Environment** | <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,bash,vscode,postman" alt="Infrastructure" /> |
+| **Languages** | <a href="#"><img src="https://skillicons.dev/icons?i=py,cpp,c,lua,js,ts,cs" alt="Languages" /></a> |
+| **Backend & Services** | <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,redis" alt="Backend" /></a> |
+| **Databases** | <a href="#"><img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" alt="Databases" /></a> |
+| **DevOps & Environments** | <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,vscode,postman" alt="DevOps" /></a> |
 
 </div>
 
 ---
 
-### 📡 REAL-TIME SOUNDINGS & RECON
+### 🚀 Featured Project Showcase
+
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 San-Andreas-Battlegrounds</h3>
+      <p align="center">
+        <a href="https://github.com/SEE17/San-Andreas-Battlegrounds">
+          <img src="https://img.shields.io/badge/View_Repository-SEE17%2FSan--Andreas--Battlegrounds-38BDF8?style=for-the-badge&logo=github" alt="Repo Link" />
+        </a>
+      </p>
+      <p>A complete multiplayer battle royale gamemode engineered for GTA San Andreas (SA-MP). Ported core mechanics of PUBG with optimized network synchronization and low-latency state replication.</p>
+      <ul>
+        <li><b>Dynamic Zone Collapses</b>: Deterministic circle shrinkage algorithms with boundary collision detection</li>
+        <li><b>Spatial Loot Spawns</b>: Procedural item distribution with distance-based rendering</li>
+        <li><b>Optimized Netcode</b>: Bit-packed network payloads ensuring a steady 60 FPS server tickrate</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Pawn-dbb284?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multiplayer-007acc?style=flat-square" />
+        <img src="https://img.shields.io/badge/Game_Dev-22c55e?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Nexus — Esports Tournament Grid</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Architecture-Distributed_Bot-7928CA?style=for-the-badge&logo=discord&logoColor=white" alt="Bot Badge" />
+      </p>
+      <p>Enterprise-grade Discord automation system designed to handle competitive esports tournaments with automated brackets, match schedules, and roster management.</p>
+      <ul>
+        <li><b>Bracket Computation</b>: Automatic generation of single/double-elimination and Swiss brackets</li>
+        <li><b>Automated Channels</b>: Dynamic voice and text channel creation with automated permission pruning</li>
+        <li><b>Distributed State</b>: High-concurrency operations backed by Redis message queues to prevent race conditions</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ ApexHook — Native Memory Engine</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Core-Memory_Tooling-0ea5e9?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Tooling" />
+      </p>
+      <p>Lightweight native memory introspection and detour library built in modern C++20 for process analysis, signature hunting, and function interception.</p>
+      <ul>
+        <li><b>SIMD Pattern Scanner</b>: Vectorized AVX2 search scanning multi-megabyte modules in &lt;1.5ms</li>
+        <li><b>RAII Hook Lifecycle</b>: Safe detour installation and bytecode restoration upon unhooking</li>
+        <li><b>VMT Swapping</b>: Thread-safe virtual method table redirection with zero runtime crashes</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/x86--64-f59e0b?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 AutoDispatch — High-Throughput Gateway</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Service-Microservice_Broker-10b981?style=for-the-badge&logo=node.js&logoColor=white" alt="Gateway Service" />
+      </p>
+      <p>Asynchronous notification and task queue service designed to balance and dispatch thousands of webhooks, alerts, and transactional messages in real-time.</p>
+      <ul>
+        <li><b>Intelligent Rate-Limiter</b>: Dynamic leaky-bucket algorithm preventing API 429 penalties</li>
+        <li><b>Task Persistence</b>: Durable job queues ensuring zero message loss during server restarts</li>
+        <li><b>Live Telemetry</b>: Real-time latency tracking and error rate dashboards</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Soundings
 
 <div align="center">
 
   <table border="0">
     <tr>
       <td align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=SEE17&show_icons=true&bg_color=020617&title_color=00F5FF&text_color=94A3B8&icon_color=00F5FF&border_color=00F5FF33&hide_border=false&count_private=true&include_all_commits=true" alt="SEE17 GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEE17&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="SEE17 GitHub Stats" />
       </td>
       <td align="center">
-        <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEE17&background=020617&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=94A3B8&dates=64748B&sideNums=00F5FF&currStreakNum=00F5FF&border=00F5FF33&hide_border=false" alt="SEE17 Streak" />
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEE17&theme=radical&hide_border=true" alt="SEE17 Streak" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEE17&layout=compact&bg_color=020617&title_color=00F5FF&text_color=94A3B8&border_color=00F5FF33&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEE17&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
   <br /><br />
 
-  <!-- Neon Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEE17&bg_color=020617&color=00F5FF&line=00F5FF&point=7928CA&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <!-- Activity Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEE17&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-### 🏆 TROPHIES & BADGES OF MERIT
+### 💬 Connect & Collaborate
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SEE17&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="SEE17 Trophies" />
-  </a>
+
+Have a project idea, need high-performance bot infrastructure, or want to collaborate on game tooling?
+
+<br />
+
+<a href="mailto:notseegoddc@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-notseegoddc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+</a>
+&nbsp;
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Add%20on%20Discord-@SEE17-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<br /><br />
+
+```
+"Quality code is not an accident; it is the result of intelligent effort."
+```
+
 </div>
 
 ---
 
-### 📥 TRANSMISSION FREQUENCIES
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│ DIRECT UPLINK   :: notseegoddc@gmail.com                               │
-│ DISCORD SECURE  :: @SEE17                                              │
-│ TARGET PROFILES :: High-throughput backends, kernel tools, low-level   │
-│ AVAILABILITY    :: Mission contracts & advanced architecture builds    │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 <div align="center">
 
-  <!-- Cyber Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00f5ff,30:002b28,70:040d1a,100:02040a&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,28,14,0&height=100&section=footer" width="100%" alt="Footer Wave" />
 
-  <sub>NODE: <b>SEE17</b> • CLASSIFIED ARCHITECTURE • ALL FREQUENCIES SECURED</sub>
+  <sub>Crafted for <b>SEE17</b> • Full-Stack Systems & Bot Engineering</sub>
 
 </div>
