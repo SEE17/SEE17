@@ -79,9 +79,9 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
   <!-- Row 1: Desktop Software & FiveM Physics -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Apex Boost — Standalone Windows FPS Optimizer</h3>
+      <h3 align="center">⚡ not.see optimizer</h3>
       <p align="center">
-        <img src="./assets/hero.png" width="90%" alt="Apex Boost Logo" />
+        <img src="./assets/hero.png" width="90%" alt="not.see optimizer Logo" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Binary-n0t.see.exe-00F5FF?style=for-the-badge&logo=windows" alt="Binary" />
