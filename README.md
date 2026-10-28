@@ -127,7 +127,7 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
     <td width="50%" valign="top">
       <h3 align="center">🤖 High-Volume AutoDM & GodDC Infrastructure</h3>
       <p align="center">
-        <img src="./assets/Screenshot_2025-11-15_113159.png" width="90%" alt="AutoDM Bot Screenshot" />
+        <img src="./assets/autodm_banner.jpg" width="90%" alt="AutoDM Bot Banner" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Scale-Mass_Dispatch-7928CA?style=for-the-badge&logo=discord&logoColor=white" alt="AutoDM" />
@@ -147,7 +147,7 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
     <td width="50%" valign="top">
       <h3 align="center">🏆 Tournament Management Ecosystem</h3>
       <p align="center">
-        <img src="./assets/Screenshot_2025-11-15_113303.png" width="90%" alt="Tournament Bot Screenshot" />
+        <img src="./assets/tournament_banner.jpg" width="90%" alt="Tournament Grid Banner" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Production-Tournament_Grid-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Tournament Grid" />
@@ -192,7 +192,7 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
     <td width="50%" valign="top">
       <h3 align="center">🎮 MoonLoader & TR7 Client Memory Hooks</h3>
       <p align="center">
-        <img src="./assets/siteM16-1-7.png" width="90%" alt="Client Hook Banner" />
+        <img src="./assets/memory_hooks_banner.jpg" width="90%" alt="Memory Hook Engine Banner" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Platform-MoonLoader_%7C_Win32-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Client Tools" />
