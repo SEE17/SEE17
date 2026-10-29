@@ -36,7 +36,7 @@ and enterprise-grade Discord bot automation grids capable of high-concurrency th
 ```
 
 - 🚀 **Desktop & Kernel Tools**: Standalone Windows executables (`n0t.see.exe`), low input-latency game debloaters, audio soundboard suites
-- 🎮 **Game Mechanics & Custom Tooling**: FiveM realistic recoil physics, MoonLoader client hooks, and open.mp systems
+- 🎮 **Game Mechanics & Custom Tooling**: FiveM realistic recoil physics, multiplayer roleplay frameworks, and open.mp systems
 - 🤖 **Bot Infrastructure**: High-volume auto-dispatch grids, esports tournament bracket engines, automated image verification filters
 - 💬 **Discord Handle**: `n0t.see`
 - 📫 **Direct Inquiries**: [notseegoddc@gmail.com](mailto:notseegoddc@gmail.com)
@@ -64,7 +64,7 @@ and enterprise-grade Discord bot automation grids capable of high-concurrency th
 ```
 PAWN (SA-MP / OPEN.MP)       [████████████████████]  10,000+ files • Gamemodes, textdraws, dynamic systems
 JAVASCRIPT / NODE.JS         [██████████████████░░]   7,000+ files • Discord bots, automation gateways, REST APIs
-LUA (MOONLOADER / FIVEM)     [████████████████░░░░]   2,100+ files • Client hooks, ox_lib, HUDs, memory utilities
+LUA (FIVEM / GAME ENGINES)   [████████████████░░░░]   2,100+ files • ox_lib, weapon recoil physics, custom HUDs, server logic
 TYPESCRIPT                   [██████████████░░░░░░]   1,400+ files • Typed bot architectures & backend microservices
 C / C++ (WIN32 / ASM)        [█████████████░░░░░░░]     800+ files • Native DLL hooks, Linux .so plugins, memory scans
 SQL (MYSQL / SQLITE)         [████████████░░░░░░░░]     200+ files • oxmysql, high-concurrency player database persistence
@@ -135,8 +135,8 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
       <p>High-throughput automated messaging and notification dispatch grid built with rate-limit evasion, multi-account rotation, and live delivery telemetry.</p>
       <ul>
         <li><b>Token Pool Management</b>: Dynamic rotation of bot tokens with intelligent backoff to prevent API bans</li>
-        <li><b>Automated Verification Filters</b>: Filters active targets, checks permissions, and logs real-time delivery status</li>
-        <li><b>Anti-Spam Bypasses</b>: Randomized message hashing and variable dispatch intervals</li>
+        <li><b>TPA Verification & Anti-Nuke</b>: Automatic image screening for verification screenshots and instant guild raid defense</li>
+        <li><b>Anti-Spam Bypasses</b>: Randomized message hashing, variable dispatch intervals, and audit logging</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -166,28 +166,8 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
     </td>
   </tr>
 
-  <!-- Row 3: Memory Client Tools & Audio Suite -->
+  <!-- Row 3: Desktop Audio & Multiplayer Roleplay -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 MoonLoader & TR7 Client Memory Hooks</h3>
-      <p align="center">
-        <img src="./assets/memory_hooks_banner.jpg" width="90%" alt="Memory Hook Engine Banner" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Platform-MoonLoader_%7C_Win32-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Client Tools" />
-      </p>
-      <p>Custom client-side modifications and runtime memory tools for GTA San Andreas and SA-MP. Features custom UI menus, noclip utilities, dynamic actor spawning, and low-level memory patches.</p>
-      <ul>
-        <li><b>TR7 Menu Hook</b>: In-game interactive graphical menu with real-time memory address toggling</li>
-        <li><b>Noclip & Telemetry Utilities</b>: Smooth coordinate interpolation with custom collision bypasses</li>
-        <li><b>Dynamic Actor & Effect Engine</b>: Scripted NPC routines, custom particle systems, and textdraw overlays</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Win32_Memory-0078D4?style=flat-square&logo=windows&logoColor=white" />
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">🔊 n0t_see Audio Soundboard Suite</h3>
       <p align="center">
@@ -205,10 +185,6 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
         <img src="https://img.shields.io/badge/Audio_API-FF007A?style=flat-square" />
       </p>
     </td>
-  </tr>
-
-  <!-- Row 4: Multiplayer Framework & Security Guardian -->
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏙️ DUBAI v1 & Bloodline PvP Framework</h3>
       <p align="center">
@@ -228,23 +204,6 @@ C# (.NET / STANDALONE APPS)  [███████████░░░░░�
         <img src="https://img.shields.io/badge/Pawn-dbb284?style=flat-square" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/open.mp-22c55e?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ TPA Verification & Anti-Nuke Guardian</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Security-Server_Defense-EA4335?style=for-the-badge&logo=shield&logoColor=white" alt="Security Guardian" />
-      </p>
-      <p>Automated visual screening and security guardian for Discord communities. Automatically verifies uploaded screenshot proofs and protects guilds from rogue bot attacks.</p>
-      <ul>
-        <li><b>Image Check Processor</b>: Scans, parses, and validates user verification screenshots before granting access</li>
-        <li><b>Anti-Nuke Protection</b>: Instantly detects mass-channel deletion, mass-ban attempts, and unauthorized role grants</li>
-        <li><b>Audit Trail Logging</b>: Detailed embed logs recording every administrative action with timestamped evidence</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Security-10b981?style=flat-square" />
       </p>
     </td>
   </tr>
